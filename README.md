@@ -22,13 +22,13 @@ Temp spoofer signifie que vous n'avez qu'à usurper chaque redémarrage
 - Pour les tournois Fortnite, nous ne prenons également en charge que certaines cartes mères
 
 ## [Cartes mères prises en charge]
--Acer
--ASRock
--ASUS
--Biostar
--Dell
--Gigaoctet
--Lenovo
--MSI
--NZXT
+- Acer
+- ASRock
+- ASUS
+- Biostar
+- Dell
+- Gigaoctet
+- Lenovo
+- MSI
+- NZXT
 - Prédateur
